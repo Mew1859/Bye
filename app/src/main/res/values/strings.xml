@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">email</string>
+    <string name="signup">Signup</string>
+    <string name="loginherer">Already have on account? <u>Login</u></string>
+    <string name="signuphere">Create a new account? SignUp</string>
+    <string name="welcome">welcome</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_the_amount">Enter the Amount</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+</resources>
